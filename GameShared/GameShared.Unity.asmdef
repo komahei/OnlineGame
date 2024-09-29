@@ -1,0 +1,16 @@
+{
+    "name" : "GameShared.Unity",
+    "references": [
+        "MessagePack.Annotations",
+        "MagicOnion.Abstractions"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "noEngineReferences": false
+}
