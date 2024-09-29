@@ -1,4 +1,4 @@
-"# OnlineGame" 
+# OnlineGame
 
 
 ゲーム配布(.exe形式)
