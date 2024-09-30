@@ -11,7 +11,7 @@
 
 GameClient : Unityで作られたクライアントサイドのコード等が配置されています。  
 GameServer : MagicOnionを用いて作られたサーバサイドのコードが配置されています。  
-ゲームサーバは,Ubuntu Serverにて現在稼働中です。  
+ゲームサーバは,Linux Serverで現在稼働中です。  
 GameShared : クライエントとサーバ間で共有されるコードが配置されています。  
   
 使用したAsset等はGameClient/権利表記.txtにて明記致します。  
