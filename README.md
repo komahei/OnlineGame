@@ -2,8 +2,8 @@
 このゲームはオンラインゲームとなります。
 プレイ人数は2~4人です。
 
-GameClient : Unityで作られたクライエントのコード等が配置されています。  
-GameServer : MagicOnionを用いて作られたサーバ側のコードが配置されています。  
+GameClient : Unityで作られたクライアントサイドのコード等が配置されています。  
+GameServer : MagicOnionを用いて作られたサーバサイドのコードが配置されています。  
 ゲームサーバは,Ubuntu Serverにて現在稼働中です。  
 GameShared : クライエントとサーバ間で共有されるコードが配置されています。  
   
