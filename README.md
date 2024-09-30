@@ -2,11 +2,11 @@
 このゲームはオンラインゲームとなります。
 プレイ人数は2~4人です。
 
-GameClient : Unityで作られたクライエントのコード等が配置されています。
-GameServer : MagicOnionを用いて作られたサーバ側のコードが配置されています。
-ゲームサーバは,Ubuntu Serverにて現在稼働中です。
-GameShared : クライエントとサーバ間で共有されるコードが配置されています。
-
+GameClient : Unityで作られたクライエントのコード等が配置されています。  
+GameServer : MagicOnionを用いて作られたサーバ側のコードが配置されています。  
+ゲームサーバは,Ubuntu Serverにて現在稼働中です。  
+GameShared : クライエントとサーバ間で共有されるコードが配置されています。  
+  
 ゲーム配布(.exe形式)  
 https://drive.google.com/file/d/1EEVZMS6j5pUMB_YB16ifppqDA0OBCCgD/view?usp=sharing
 
